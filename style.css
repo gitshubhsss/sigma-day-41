@@ -1,0 +1,37 @@
+body {
+  font-family: Arial;
+}
+
+.green{
+  color: green;
+  text-decoration: underline black wavy;
+  text-align: center;
+  color: red;
+  background-color: brown;
+}
+.border{
+  border: 2px solid black;
+}
+#mainImg {
+  width: 35%;
+}
+
+.box {
+  border: 0.25px solid black;
+  width: 200px;
+  padding: 1rem;
+}
+
+.boxLink {
+  text-decoration: none;
+}
+
+.oldImg {
+  height: 200px;
+  width: 200px;
+  margin-right: 1rem;
+}
+
+#description {
+  background-color: antiquewhite;
+}
